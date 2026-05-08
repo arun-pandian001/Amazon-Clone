@@ -7,7 +7,7 @@ let lists='';
 products.forEach((product)=>{
 lists +=`  <div class="product-container">
           <div class="product-image-container">
-            <img class="product-image" src="${product.images}">
+            <img class="product-image" src="${product}">
           </div>
 
           <div class="product-name limit-text-to-2-lines">
