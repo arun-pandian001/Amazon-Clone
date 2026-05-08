@@ -15,7 +15,7 @@ lists +=`  <div class="product-container">
           </div>
 
           <div class="product-rating-container">
-            <img class="product-rating-stars" src="images/ratings/rating-${product.rating.stars*10}.png">
+            <img class="product-rating-stars" src="ratings/rating-${product.rating.stars*10}.png">
             <div class="product-rating-count link-primary">
               ${product.rating.count}
             </div>
@@ -45,7 +45,7 @@ lists +=`  <div class="product-container">
           </div>
 
           <div class="added-to-cart  pop-up-msg${product.id}">
-            <img src="images/icons/checkmark.png">
+            <img src="icons/checkmark.png">
             Added
           </div>
 
