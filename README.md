@@ -6,8 +6,7 @@ A fully functional Amazon Clone built with HTML, CSS, and Vanilla JavaScript. Th
 
 ## 🚀 Live Demo
 
-amazon-clone-khaki-tau.vercel.app
-
+you can check out live version of this project here:[Amazon clone live link](amazon-clone-khaki-tau.vercel.app)
 ---
 
 ## ✨ Features
